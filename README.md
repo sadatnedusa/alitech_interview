@@ -1,2 +1,2 @@
-# alitech_interview-
+# alitech_interview
 Interview Repository
